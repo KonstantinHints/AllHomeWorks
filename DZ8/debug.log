@@ -1,0 +1,22 @@
+[1003/185606.498:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[1003/190341.367:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1003/194349.530:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[1004/192339.553:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[1004/200252.949:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1004/202237.792:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[1004/225221.455:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[1004/230111.971:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1004/231153.097:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1004/231158.118:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1004/231203.146:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1005/000544.741:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1005/000621.679:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost

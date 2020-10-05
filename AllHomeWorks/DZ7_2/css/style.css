@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    transition: all .1s ease-in;
+}
+ul {
+    padding: 0;
+}
+.wrapper {
+    display: inline-block;
+    text-align: center;
+    font-size: 0;
+    box-sizing: border-box;
+    background-color: white;
+    color: white;
+    font-family: “Lucida Sans Unicode”, “Lucida Grande”, sans-serif;
+    margin-top: 40px;
+}
+.dashboard h1 {
+    text-align: left;
+}
+.mainWindow {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    background-color: #3399cc;
+    border: 25px #2b81ac solid;
+}
+.dashboard {
+    display: inline-block;
+    text-align: center;
+    width: 990px;
+    height: 915px;
+    background-color: #3399cc;
+    color: white;
+    padding-top: 40px;    
+}
+.wi {
+    font-size: 32px;
+    color: white;
+    text-decoration: none;
+}
+.wrapper li {
+    display: inline-block;
+    font-size: 24px;
+}
+.tventyFive {
+    display: inline-block;
+    width: 25%;
+}
+.fifty {
+    display: inline-block;
+    width: 50%;
+}
+.hundred {
+    width: 100%;
+}
+
+.violet {
+    background-color: #666699;
+    border-left: 4px white solid;
+    border-top: 4px white solid;
+    border-right: 4px white solid;
+    border-bottom: 4px white solid ;
+}
+.blue {
+    background-color:#3399cc;
+    border-left: 4px white solid;
+    border-top: 4px white solid;
+    border-right: 4px white solid;
+}
+.whiteBlue {
+    background-color: #33cccc;
+    border-right: 4px white solid;
+    border-top: 4px white solid;
+}
+.pink {
+    background-color: #cc6699;
+    border-right: 4px white solid;
+    border-top: 4px white solid;
+}
+.darkPink {
+    background-color: #996699;
+    border-right: 4px white solid;
+    border-top: 4px white solid;
+}
+.red {
+    background-color: #c24747;
+    border-left: 4px white solid;
+    border-top: 4px white solid;
+    border-right: 4px white solid;
+}
+.orange  {
+    background-color: #e2674a;
+    border-right: 4px white solid;
+    border-top: 4px white solid;
+}
+.yellow {
+    background-color: #ffcc66;
+    border-right: 4px white solid;
+    border-top: 4px white solid;
+}
+.green {
+    background-color: #99cc99;
+    border-right: 4px white solid;
+    border-top: 4px white solid;
+}
+.grey {
+    background-color: #669999;
+    border-left: 4px white solid;
+    border-top: 4px white solid;
+    border-right: 4px white solid;
+}
+.whiteGreen {
+    background-color: #339966;
+    border-right: 4px white solid;
+    border-top: 4px white solid; 
+}
+ul:hover li {
+    opacity: 50%;
+}
+ul li:hover {
+    opacity:100%;
+}

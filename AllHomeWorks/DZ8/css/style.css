@@ -1,0 +1,108 @@
+.BgWrapper {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #b07cf7;
+    width: 100%;
+    height: 100%;
+}
+header {
+    display: inline-block;
+    position: absolute;
+    left: 465px;
+    top: 50px;
+    width: 570px;
+    height: 185px;
+    margin: 0 auto;
+    z-index: 1;
+    color: white;
+}
+header h1 {
+    font-size: 90px;
+    text-align: center;
+    margin: 0;
+}
+header h6 {
+    font-size: 17px;
+    text-align: center;
+    margin: 30px;
+    max-width: 520px;
+}
+.wrapper {
+    display: inline-block;
+    position: absolute;
+    left: 165px;
+    top: 280px;
+    width: 80%;
+    height: 320px;
+    z-index: 1;
+    color: white;
+}
+.card {
+    display: inline-block;
+    position: relative;
+    width: 370px;
+    height: 310px;
+    margin: 0 15px;
+    border: none;
+    box-sizing: border-box;
+}
+.dayMonth {
+    display: inline-block;
+    position: absolute;
+    top: 45px;
+    left: 45px;
+    background-color: #545a64;
+    width: 60px;
+    height: 60px;
+    border-radius: 4px;
+    opacity: 70%;
+    z-index: 4;
+}
+.dayMonth span {
+    display: inline-block;
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+}
+.viewButton button {
+    display: inline-block;
+    position: absolute;
+    bottom: 65px;
+    left: 42%;
+    background-color: #f72b3b;
+    height: 55px;
+    width: 200px;
+    color: white;
+    border: none;
+}
+.cardContent {
+    display: inline-block;
+    position: absolute;
+    bottom: 5px;
+    left: 15px;
+    font-weight: lighter;
+    z-index: 4;
+    box-sizing: border-box;
+}
+.gradientCard {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 370px;
+    height: 310px;
+    opacity: 50%;
+    background: linear-gradient(to bottom, #fbfbf7, #1a1a1a);
+    z-index: 3;
+    box-sizing: border-box;
+}
+.leftImg {
+    background-image: url(../img/imgLeft.png);
+}
+.centerImg {
+    background-image: url(../img/imgCenter.png);
+}
+.rightImg {
+    background-image: url(../img/imgRight.png);
+}

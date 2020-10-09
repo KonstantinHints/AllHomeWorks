@@ -66,12 +66,24 @@ header p {
 .cardImg2 {
     background-image: url(../img/Alex2.png);
 }
+.cardImg2:hover {
+    background-color: #18b5dc;
+    background-image: none;
+}
 .cardImg3 {
     background-image: url(../img/Elena3.png);  
+}
+.cardImg3:hover {
+    background-color: #18b5dc;
+    background-image: none;
 }
 .cardImg4 {
     background-image: url(../img/Lily4.png);  
     margin-right: 0px;
+}
+.cardImg4:hover {
+    background-color: #18b5dc;
+    background-image: none;
 }
 .social {
     display: inline-block;
@@ -84,8 +96,24 @@ header p {
 .social i {
     padding: 25%;
 }
-.socialWrapper {
+.card > .socialWrapper {
     position: absolute;
+    display: none;
     top: 40%;
     left: 25%;
+    z-index: 3;
+}
+.card:hover > .socialWrapper {
+    position: absolute;
+    display: inline-block;
+    top: 40%;
+    left: 25%;
+    z-index: 3;
+}
+.socialWrapperFixed {
+    position: absolute;
+    display: inline-block;
+    top: 40%;
+    left: 25%;
+    z-index: 3;
 }

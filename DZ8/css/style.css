@@ -97,6 +97,18 @@ header h6 {
     z-index: 3;
     box-sizing: border-box;
 }
+.gradientCard:hover {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 1%;
+    background: linear-gradient(to bottom, #fbfbf7, #1a1a1a);
+    z-index: 3;
+    box-sizing: border-box;
+}
 .leftImg {
     background-image: url(../img/imgLeft.png);
 }

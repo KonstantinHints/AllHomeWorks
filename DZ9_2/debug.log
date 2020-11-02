@@ -1,0 +1,65 @@
+[1024/102555.169:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-learn/build/external.js (1)
+[1024/102922.190:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[1024/103636.052:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/103641.489:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/104156.888:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1024/105132.856:ERROR:media_internals.cc(112)] Cannot get RenderProcessHost
+[1024/110623.939:INFO:CONSOLE(1)] "Long rAF frame-time", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202020/Required/www-rich-tooltips/build/external.js (1)
+[1024/110624.497:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[1024/111046.184:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/153742.144:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/153747.166:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222215.861:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222220.881:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222225.902:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222230.924:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222235.943:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222240.973:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222245.995:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222251.016:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222256.033:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222301.048:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222306.064:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222311.078:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222316.101:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222321.109:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222326.123:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222331.131:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222336.145:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222341.167:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222346.179:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222351.192:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222356.207:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222401.221:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222406.239:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222411.253:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222416.282:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222421.305:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222426.341:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222431.354:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222436.365:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222441.395:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222446.415:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222451.448:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222456.473:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222501.494:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222506.510:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222511.516:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222516.541:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222521.564:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222526.570:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222531.588:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222536.604:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222541.619:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222546.636:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222551.656:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222556.681:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222601.687:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222606.800:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.
+[1024/222611.821:WARNING:dns_config_service_win.cc(668)] Failed to read DnsConfig.

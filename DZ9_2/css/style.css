@@ -1,0 +1,32 @@
+
+.wrapper {
+    background-color: #e2e7ec;
+}
+.col-md-8 {
+    color: #ffffff;
+}
+.col-md-8 .content {
+    transform: translateY(-150%);
+}
+.col-md-4 {
+    background-color: #e2e7ec;   
+}
+.col_wrapper {
+    display: block;
+    background-color: #ffffff;
+    width: 100%;
+    height: 80%;
+}
+.col_wrapper > img {
+    width: 100%;
+}
+.content h3 {
+    font-size: 13px;
+}
+.content h1 {
+    font-size: 30px;
+}
+.loading {
+    display: inline-block;
+    text-align: center;
+}
